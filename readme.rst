@@ -1,4 +1,6 @@
 LAPORAN ANALISIS KRIPTOGRAFI PADA PROYEK WEB PHP
+####################################################
+
 1. Pendahuluan
 
 Kriptografi merupakan cabang ilmu yang mempelajari teknik-teknik penyandian pesan agar tidak dapat dibaca oleh pihak yang tidak berwenang. Dalam dunia teknologi informasi, kriptografi berperan penting untuk menjaga kerahasiaan, integritas, dan autentikasi data.
